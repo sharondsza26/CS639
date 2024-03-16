@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MidtermSharonDsouza</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used  -->
+
+    <!-- MAIN SCREEN STRINGS   -->
+    <string name="enter_liters">Enter Liters</string>
+    <string name="convert">Convert To Cups</string>
+
+    <!--    INPUT OUTPUT STRING -->
+    <string name="empty_input_error">Please enter liters</string>
+    <string name="string_output">%.2f liters = %.2f cups</string>
+
+    <!--    DEVELOPER INFO STRING -->
+    <string name="show_developer_info">This app was developed by Sharon Dsouza!</string>
+    <string name="show_developer">Show Developer</string>
+    <string name="header_text"> <i>Welcome to the Liters to Cups Conversion app!</i> </string>
+
+
+</resources>
