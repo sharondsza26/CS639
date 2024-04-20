@@ -3,7 +3,6 @@
 # Java-Kotlin
 
 The Repository contains:
-basic-android-kotlin-compose-training-race-tracker: Learning Kotlin Coroutines
 
 AboutMe: An androind app in java for learning buttons and layouts
 
@@ -22,3 +21,7 @@ MDC103: Material Theming with Color, Motion and Type - Changing color, topograph
 MDC104: Material Advanced Components - Adding backdrop menu, adding shape, adding motion, adding icons
 
 MidtermSharonDsouza: An app in java that converts liters into cups. The app will take liters as inputs and return cups as outputs.
+
+basic-android-kotlin-compose-training-race-tracker: Learning Kotlin Coroutines
+
+basic-android-kotlin-compose-training-mars-photos: Learning to Integrate APIs in Kotlin
